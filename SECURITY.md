@@ -2,15 +2,20 @@
 
 ## Supported Versions
 
-Node Redis is generally backwards compatible with very few exceptions, so we recommend users to always use the latest version to experience stability, performance and security.
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
 
 | Version | Supported          |
-|---------|--------------------|
-| 4.0.z   | :heavy_check_mark: |
-| 3.1.z   | :heavy_check_mark: |
-| < 3.1   | :x:                |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
 
-If you believe you’ve discovered a serious vulnerability, please contact the Node Redis core team at redis@redis.io. We will evaluate your report and if necessary issue a fix and an advisory. If the issue was previously undisclosed,
-we’ll also mention your name in the credits.
+Use this section to tell people how to report a vulnerability.
+
+Tell them where to go, how often they can expect to get an update on a
+reported vulnerability, what to expect if the vulnerability is accepted or
+declined, etc.
